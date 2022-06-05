@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading{
+  background-image:url(img/mv.jpg);
+  height: 400px;
+  background-position:bottom;
+  padding:20px 0 0 20px;
+  font-size: 20px;
+  background-size: cover;
+  color: gray;
+}
+
+.menu{
+  
+  padding:50px 0;
+  width:840px;
+  margin:0 auto;
+
+}
+.menu-item{
+ 
+   border-bottom: 1px solid #BBBBBB;
+  padding-bottom: 30px;
+  margin-bottom:30px;
+}
+.menu-item-text{
+  font-size: 15px;
+  margin:5px 0 0 5px;
+}
+
+.webcamp{
+  width: 130px;
+  height: auto;
+  
+}
